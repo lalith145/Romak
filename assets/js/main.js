@@ -128,7 +128,7 @@
   on('click', '.mobile-nav-toggle', function(e) {
     select('#navbar').classList.toggle('navbar-mobile')
     this.classList.toggle('fa-menu')
-    this.classList.toggle('fa-x')
+    this.classList.toggle('fa-xmark')
   })
 
   /**
