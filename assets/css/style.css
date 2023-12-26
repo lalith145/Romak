@@ -582,7 +582,7 @@ section {
 
 .section-header p {
   text-align: center;
-  padding-bottom: 30px;
+  /* padding-bottom: 30px; */
   color: #333;
 }
 
