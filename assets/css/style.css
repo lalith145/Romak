@@ -794,6 +794,7 @@ section {
 
 #services .icon {
   float: left;
+  padding-right: 10px;
 }
 
 #services .icon i {
@@ -810,7 +811,7 @@ section {
   font-size: 18px;
 }
 
-#services .title a {
+#services .title {
   color: #111;
 	margin-left: 10px;
 }
